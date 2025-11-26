@@ -1,13 +1,14 @@
-📘 API Documentation Samples
+**Flight Booking API – Overview**
 
-This repository contains a collection of sample API documentation created for learning, practice, and portfolio demonstration purposes. These samples cover REST APIs, request/response examples, authentication, error handling, and versioning documentation.
+The **Flight Booking API** enables developers to search flights, check availability, manage bookings, issue tickets, and retrieve passenger information through a simple REST-based interface. It is designed for travel platforms, airline management systems, mobile apps, and third-party integrations.
 
-🔧 Included Samples
+**What This API Offers**
 
-- Flight Booking API Documentation
-- User Management API
-- Product Catalog API
-- Authentication & Token-Based Access
-- Pagination, Filters & Sorting
-- API Deprecation & Versioning Examples
-- Error Codes & Troubleshooting
+The Flight Booking API provides endpoints for:
+
+**- Flight Search –** Find flights using origin, destination, dates, and passenger details.
+**- Fare & Seat Availability –** Check available seats and applicable fare options.
+**- Booking Management –** Create, update, cancel, and retrieve bookings.
+**- Passenger Details –** Add, edit, or view passenger information.
+**- Ticketing –** Confirm booking and generate e-tickets.
+**- Payment Processing –** Validate payments and verify booking status.
