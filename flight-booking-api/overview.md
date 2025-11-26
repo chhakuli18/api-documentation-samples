@@ -6,9 +6,14 @@ The **Flight Booking API** enables developers to search flights, check availabil
 
 The Flight Booking API provides endpoints for:
 
-**- Flight Search –** Find flights using origin, destination, dates, and passenger details.
-**- Fare & Seat Availability –** Check available seats and applicable fare options.
-**- Booking Management –** Create, update, cancel, and retrieve bookings.
-**- Passenger Details –** Add, edit, or view passenger information.
-**- Ticketing –** Confirm booking and generate e-tickets.
-**- Payment Processing –** Validate payments and verify booking status.
+**- Flight Search –** Find flights using origin, destination, dates, and passenger details.  
+**- Fare & Seat Availability –** Check available seats and applicable fare options.  
+**- Booking Management –** Create, update, cancel, and retrieve bookings.  
+**- Passenger Details –** Add, edit, or view passenger information.  
+**- Ticketing –** Confirm booking and generate e-tickets.  
+**- Payment Processing –** Validate payments and verify booking status.  
+
+```
+
+```
+
